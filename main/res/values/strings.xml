@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bijuu</string>
+    <string name="bijuu_name">Nama Bijuu</string>
+    <string name="bijuu_jinchuriki">Jinchuriki</string>
+    <string name="bijuu_details">Detail Bijuu</string>
+    <string name="bijuu_photo">Photo Bijuu</string>
+    <string name="bijuu_bg">Background Bijuu</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+</resources>
